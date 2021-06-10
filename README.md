@@ -1,5 +1,9 @@
 # Embeddings learned through traditional supervised learning can be used for continual learning
 
+## Data
+
+The preprocessed omniglot is available at [here](https://drive.google.com/file/d/19obzioEQ19jLp4Bm2oR3tv9YePcddiIf/view?usp=sharing) and pretrained models [here](https://drive.google.com/file/d/1brBalw4PsS14qNhUN2NUAZyq7svfhYou/view?usp=sharing).
+
 ## Examples of training commands
 
 - Train TSL single-branch without augmentation
